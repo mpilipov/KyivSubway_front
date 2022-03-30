@@ -1,0 +1,24 @@
+.home-slider {
+    padding: 0;
+}
+
+.home-slider h5{
+    font-size: 60px;
+}
+
+.home-slider p{
+    font-size: 30px;
+}
+.carousel-caption {
+    bottom: 80px;
+}
+
+.carousel-item {
+    height: 60rem;
+}
+
+.truncate {
+  height: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
