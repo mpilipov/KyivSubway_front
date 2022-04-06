@@ -2,7 +2,7 @@
   <div class="container-fluid home-slider">
     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
-        <div class="carousel-item active" style="background-color: #343a40!important">
+        <div class="carousel-item active" style="background-color: #343a40!important; height:300px">
           <div class="carousel-caption d-none d-md-block">
             <form class="my-2 my-lg-0">
               <input name="q" type="text" class="form-control" placeholder="Поиск" aria-label="Поиск" v-model="q">
