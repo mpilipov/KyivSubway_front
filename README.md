@@ -27,7 +27,7 @@ This is frontend of Kyiv Subway project
 
 Ссылка на сайт:
 
-http://51.250.77.76
+http://51.250.83.25
 
 # first_jsapp
 
